@@ -1,0 +1,31 @@
+[
+  {
+    "email": "levy@example.com",
+    "designation": "mmso",
+    "password": "admin1234",
+    "pdfMc": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+    "image": "https://i.picsum.photos/id/643/300/300.jpg?hmac=19SSKh6POFcqrLjTMrh2boFKKD6xGc024E0-lZnwPFQ"
+  },
+  {
+    "name": "louie@example.com",
+    "designation": "mmso",
+    "password": "admin1234",
+    "pdfMc": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+    "image": "https://i.picsum.photos/id/929/300/300.jpg?hmac=Jdcgv9M8_yI8KpnCw5dNG5AdLzTwO6iunYRneOE7sqs"
+  },
+  {
+    "name": "jessie@example.com",
+    "designation": "mmc",
+    "password": "admin1234",
+    "pdfMc": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+    "image": "https://i.picsum.photos/id/732/300/300.jpg?hmac=42BaZGQktL1uS0K3ymXISdqpPkD0UeEiToVbE5Wtdjk"
+  },
+  {
+    "name": "eloisa@example.com",
+    "designation": "mmc",
+    "password": "admin1234",
+    "pdfSo": "https://randomuser.me/api/portraits/men/61.jpg",
+    "pdfMc": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+    "image": "https://i.picsum.photos/id/13/300/300.jpg?hmac=KpKrVHSxw7oTYqaH6Go7ulaMqAocY3zzej1sqIi6fRQ"
+  }
+]
